@@ -1,5 +1,1 @@
-# Hello git
-
-## Otus git lesson
-
-### это второе изменение
+Создано в рамках курса OTUS JavaScript QA Engineer
